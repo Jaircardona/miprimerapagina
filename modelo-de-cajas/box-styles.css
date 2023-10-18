@@ -1,0 +1,29 @@
+h1{
+    padding: 10px;
+    margin: 50px;
+    border: 5px solid beige;
+}
+p{
+    padding: 10px;
+    margin: 20px;
+    border: 5px solid blue;
+}
+div{
+    background-color: beige;
+    padding: 10px 20px 3px;
+}
+em {
+    border: 2px solid brown;
+    margin: 5px;
+    padding: 3px;
+    background-color: bisque;
+}
+strong {
+    padding: 10px 12px 15px 3px;
+}
+span{
+    background-color: blueviolet;
+}
+imagen1{
+   
+}
