@@ -94,3 +94,11 @@ footer{
     cursor: pointer;
     display: none;
 }
+.class greeting {
+    text-align: center;
+}
+main seccion-principal{
+    position:initial;
+    align-items: last baseline;
+    
+}
